@@ -1,5 +1,7 @@
 # LTX-2.5 en ComfyUI con una AMD — flujos en español
 
+> 🦖 **Este flujo es gratis.** Si te sirvió, suscríbete a **El Dino Porthos** en YouTube para más tutoriales (próximamente H3 y Wan): **https://www.youtube.com/@eldinoporthos**
+
 Flujos del tutorial **«Videos con IA en tu PC con una AMD»** de **El Dino Porthos** (YouTube: @eldinoporthos).
 
 | Archivo | Qué es |
@@ -34,3 +36,5 @@ Medido en: AMD Radeon RX 9070 XT 16 GB · Ryzen 9 9950X3D · 48 GB de RAM · Win
 1080p · 15 s: **57 min con la plantilla → 9 min con la receta**.
 
 Libre para usar y compartir.
+
+¿Te sirvió? Suscríbete a El Dino Porthos en YouTube: https://www.youtube.com/@eldinoporthos
